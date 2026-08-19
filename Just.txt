@@ -1,1 +1,4 @@
-
+vless://a45e11a9-cb51-4d43-af63-a9bd7d9a6f9d@111.111.111.111:11111?type=grpc&mode=multi&serviceName=my-grpc-service&security=tls&sni=hosting.myserverfull.cc.cd&alpn=http/1.1&fp=chrome#тестите клаудфейр
+vless://a45e11a9-cb51-4d43-af63-a9bd7d9a6f9d@111.111.111.111:11111?type=grpc&mode=multi&serviceName=my-grpc-service&security=tls&sni=hosting.myserverfull.cc.cd&alpn=http/1.1&fp=chrome#прокси и пишите
+vless://a45e11a9-cb51-4d43-af63-a9bd7d9a6f9d@111.111.111.111:11111?type=grpc&mode=multi&serviceName=my-grpc-service&security=tls&sni=hosting.myserverfull.cc.cd&alpn=http/1.1&fp=chrome#мне работает ли
+vless://a45e11a9-cb51-4d43-af63-a9bd7d9a6f9d@111.111.111.111:11111?type=grpc&mode=multi&serviceName=my-grpc-service&security=tls&sni=hosting.myserverfull.cc.cd&alpn=http/1.1&fp=chrome#будете true Adam
